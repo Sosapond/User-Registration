@@ -15,7 +15,7 @@ const p = document.getElementById("password");
         alert("password required");
         return;
     }
-    const user = Sosapond;
+    const user = "Sosapond";
     const a = 1759;
     if (username.value != user) {
         alert("Invalid Username or Password");
